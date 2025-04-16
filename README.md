@@ -52,7 +52,7 @@ Sistema de autenticação de usuários desenvolvido em PHP puro utilizando Progr
      ```
 
 ## Estrutura de Arquivos
-/projeto 
+/projeto  
 ├── classes/  
 │   ├── Usuario.php 
 │   ├── Sessao.php 
