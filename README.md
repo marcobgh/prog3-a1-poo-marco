@@ -41,7 +41,7 @@ Sistema de autenticação de usuários desenvolvido em PHP puro utilizando Progr
 2. **Instalação**
    - Clone o repositório:
      ```
-     git clone https://github.com/seu-usuario/prog3-a1-poo-seunome.git
+     git clone https://github.com/marcobgh/prog3-a1-poo-marco.git
      ```
    - Coloque os arquivos na pasta pública do seu servidor web
 
