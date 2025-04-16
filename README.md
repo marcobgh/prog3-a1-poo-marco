@@ -15,7 +15,7 @@ Sistema de autenticação de usuários desenvolvido em PHP puro utilizando Progr
 
 1. **Cadastro de Usuários**
    - Validação de campos obrigatórios
-   - Verificação de senha e confirmação de senha
+   - Verificação de senha
    - Sanitização dos dados de entrada
 
 2. **Login**
