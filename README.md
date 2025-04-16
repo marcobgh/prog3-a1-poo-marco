@@ -6,7 +6,7 @@ Sistema de autenticação de usuários desenvolvido em PHP puro utilizando Progr
 
 ## Tecnologias Utilizadas
 
-- PHP 7.4+
+- PHP 8.4.5
 - HTML5
 - CSS3
 - XAMPP
