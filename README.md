@@ -52,20 +52,20 @@ Sistema de autenticação de usuários desenvolvido em PHP puro utilizando Progr
      ```
 
 ## Estrutura de Arquivos
-/projeto
-├── classes/ 
-│   ├── Usuario.php
-│   ├── Sessao.php
-│   └── Autenticador.php
-├── assets/ 
-│   ├── css
-│   │   └── style.css
-├── index.php 
-├── login.php 
-├── cadastro.php 
-├── dashboard.php 
-├── logout.php 
-└── README.md
+/projeto 
+├── classes/  
+│   ├── Usuario.php 
+│   ├── Sessao.php 
+│   └── Autenticador.php 
+├── assets/  
+│   ├── css 
+│   │   └── style.css 
+├── index.php  
+├── login.php  
+├── cadastro.php  
+├── dashboard.php  
+├── logout.php  
+└── README.md 
 
 ## Boas Práticas Implementadas
 
