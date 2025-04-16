@@ -76,3 +76,6 @@ Sistema de autenticação de usuários desenvolvido em PHP puro utilizando Progr
 - Proteção de rotas com verificação de sessão
 - Mensagens de erro contextualizadas
 - Interface amigável e responsiva
+
+## Elaborado por
+Marco Antonio Boghetti
